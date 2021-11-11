@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bc-whisnant
-- 👀 I’m interested in javascript, react, vue and golang
-- 🌱 I’m currently learning more react
+- 👀 I’m interested in javascript, vue, react, goland and ios development
 
 <!---
 bc-whisnant/bc-whisnant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
