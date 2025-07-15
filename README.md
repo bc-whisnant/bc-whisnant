@@ -1,6 +1,6 @@
 - Hi, I’m @bc-whisnant
 - Professionally, I specialize in frontend dev.
-- I'm good at solving difficult problems and taking on intimidating challenges. Literally...that's my whole job anywhere I work.
+- I'm good at solving difficult problems and taking on intimidating challenges. Literally...that's the reason I've been successful in this career.
 
 <!---
 bc-whisnant/bc-whisnant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
