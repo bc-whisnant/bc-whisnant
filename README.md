@@ -1,6 +1,6 @@
 - Hi, I’m @bc-whisnant
-- Professionally, I specialize in frontend development with a focus on vue and js in general.
-- In my spare time I am interested in learning more about ios and backend development (golang and node).
+- Professionally, I specialize in frontend dev.
+- I'm good at solving difficult problems and taking on intimidating challenges. Literally...that's my whole job.
 
 <!---
 bc-whisnant/bc-whisnant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
